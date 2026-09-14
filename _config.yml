@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Zhangchu Xu"
   pronouns         : "she/her"  
-  bio              : "Master Student in Computational Communication"
+  bio              : "Master Student in Computational Communication, School of Journalism and Communication"
   location         : "Nanjing, China"
-  employer         : "School of Journalism and Communication, Nanjing University"
+  employer         : "Nanjing University"
   uri              : # URL
   email            : "zhangchu_xu@163.com" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
