@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zhangchu Xu| Computational Communication"
+title                    : "Zhangchu Xu"
 title_separator          : "-"
 name                     : &name "Zhangchu Xu"
 description              : &description "Personal website of Zhangchu XU, a master's in Computational Communication at Nanjing University."   # Update this with a general description of your site, this is the default if not overridden by a page
