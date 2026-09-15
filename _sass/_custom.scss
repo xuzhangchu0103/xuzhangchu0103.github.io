@@ -51,3 +51,60 @@ box-shadow:0 12px 30px rgba(139,123,184,0.15);
 .interest-grid{
 margin-top:20px;
 }
+
+
+.timeline {
+
+border-left:3px solid #E8A8C8;
+
+padding-left:30px;
+
+margin:30px 0;
+
+}
+
+
+.timeline-item {
+
+position:relative;
+
+margin-bottom:35px;
+
+}
+
+
+.timeline-item:before {
+
+content:"";
+
+position:absolute;
+
+left:-42px;
+
+top:8px;
+
+width:14px;
+
+height:14px;
+
+background:#8B7BB8;
+
+border-radius:50%;
+
+}
+
+
+.timeline-item h3 {
+
+color:#8B7BB8;
+
+font-size:1em;
+
+}
+
+
+.timeline-item h4 {
+
+margin-bottom:8px;
+
+}
