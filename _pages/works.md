@@ -27,7 +27,7 @@ My work combines communication research, media production, and visual approaches
 <h4>China Youth Media International Communication Center</h4>
 
 <p>
-Participated in international communication projects focusing on digital storytelling, content production, and cross-cultural communication.
+Projects focusing on digital storytelling, content production, and cross-cultural communication.
 </p>
 
 </div>
