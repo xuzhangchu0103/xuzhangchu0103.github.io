@@ -284,3 +284,17 @@ transform:scale(1.03);
 transition:0.3s;
 
 }
+
+/* Portrait photography photos */
+
+.portrait-photo img {
+
+width:100%;
+
+aspect-ratio:3 / 4;
+
+object-fit:cover;
+
+border-radius:16px;
+
+}
