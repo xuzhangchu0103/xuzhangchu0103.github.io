@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "About"
-permalink: /
+permalink: /about/
 author_profile: true
 ---
-## Writing stories. Coding insights. Researching communication.
 
 ## Writing stories. Coding insights. Researching communication.
 
