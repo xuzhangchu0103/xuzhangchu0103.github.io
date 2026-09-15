@@ -49,31 +49,51 @@ My writing covers topics including public affairs, social issues, media communic
 
 ---
 
-# Featured Commentary
+<h1>Featured Commentary</h1>
 
 
-## 《强推公墓且禁止夫妻合葬：殡葬改革要明理也要重情》
-
-**Funeral Reform Should Balance Rationality and Human Sentiment**
+<div class="writing-card">
 
 
-**Platform:** Hongwang (Rednet.cn)  
-**Category:** Public Commentary / Social Issues
+<h2>
+《强推公墓且禁止夫妻合葬：殡葬改革要明理也要重情》
+</h2>
 
 
-This commentary discusses public debates surrounding local funeral reform policies, exploring the balance between administrative governance, cultural traditions, and emotional connections within communities.
+<h3>
+Funeral Reform Should Balance Rationality and Human Sentiment
+</h3>
 
 
-The article argues that social reform should pursue modernization while respecting historical memory, cultural practices, and public sentiment.
+<p>
+<strong>Platform:</strong> Hongwang (Rednet.cn)
+</p>
 
 
-**Recognition**
+<p>
+<strong>Category:</strong> Public Commentary / Social Issues
+</p>
 
-- Selected for the 2024 Hongwang "Qingjiao Plan" Series
-- Over 200,000 views across platforms
-- More than 1,000 likes and shares
-- Republished by mainstream media outlets
 
+<p>
+This commentary examines debates surrounding funeral reform policies, discussing the balance between modernization, administrative governance, cultural traditions, and public sentiment.
+</p>
+
+
+<p>
+<strong>Recognition</strong>
+</p>
+
+
+<ul>
+<li>Selected for the 2024 Hongwang "Qingjiao Plan" Series</li>
+<li>Over 200,000 views across platforms</li>
+<li>More than 1,000 likes and shares</li>
+<li>Republished by mainstream media outlets</li>
+</ul>
+
+
+</div>
 
 
 ---
