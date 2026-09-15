@@ -10,28 +10,49 @@ author_profile: true
 
 I am Zhangchu Xu, a first-year master's student in Computational Communication at the School of Journalism and Communication, Nanjing University.
 
-My research interests lie at the intersection of communication studies, computational methods, and digital storytelling. I am interested in exploring how data and intelligent technologies reshape communication practices and social interactions.
+My work explores the intersection of communication studies, computational methods, and digital storytelling.
 
 
 ---
 
-## Research Interests
+<h2>Research Interests</h2>
 
 
-### Measurement & Causal Inference
+<div class="interest-grid">
 
+<div class="interest-card">
+
+<h3>Measurement & Causal Inference</h3>
+
+<p>
 Exploring quantitative approaches in communication research, including measurement, research design, and causal identification.
+</p>
+
+</div>
 
 
-### LLM-based Cognitive and Behavioral Modeling
+<div class="interest-card">
 
-Investigating how large language models can help understand human cognition, behavior, and communication processes.
+<h3>LLM-based Cognitive and Behavioral Modeling</h3>
+
+<p>
+Investigating how large language models can help understand cognition, behavior, and communication processes.
+</p>
+
+</div>
 
 
-### Computational & Intelligent Communication
+<div class="interest-card">
 
+<h3>Computational & Intelligent Communication</h3>
+
+<p>
 Studying communication phenomena through computational methods and emerging intelligent technologies.
+</p>
 
+</div>
+
+</div>
 
 
 ---
