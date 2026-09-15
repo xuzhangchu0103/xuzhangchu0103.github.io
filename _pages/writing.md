@@ -45,6 +45,7 @@ My writing covers topics including public affairs, social issues, media communic
 
 </div>
 
+</div>
 
 ---
 
