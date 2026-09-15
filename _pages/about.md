@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-## Fortune favors the bold.
+## Writing stories. Coding insights. Researching communication.
 
 
 I am Zhangchu Xu, a first-year master's student in Computational Communication at the School of Journalism and Communication, Nanjing University.
