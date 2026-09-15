@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Works"
+title: "Works & Digital Storytelling"
 permalink: /works/
 author_profile: true
 ---
-
-# Works & Digital Storytelling
 
 Selected works exploring communication, media practice, visual storytelling, and creative expression.
 
