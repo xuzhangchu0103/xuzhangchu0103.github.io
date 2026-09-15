@@ -320,24 +320,4 @@ Third Prize, National English Competition for College Students
 </div>
 
 
-
-<div class="honor-item">
-
-<h3>2025.05</h3>
-
-<h4 class="award-title">
-University Recitation Writing Competition
-</h4>
-
-<p class="award-name">
-大学朗诵作品征文活动省级二等奖
-</p>
-
-<p class="award-en">
-Provincial Second Prize, University Recitation Writing Competition
-</p>
-
-</div>
-
-
 </div>
