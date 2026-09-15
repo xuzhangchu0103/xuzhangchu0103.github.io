@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "About"
-permalink: /about/
+permalink: /
 author_profile: true
 ---
 
-## Writing stories. Coding insights. Researching communication.
+## Fortune favors the bold.
 
 
 I am Zhangchu Xu, a first-year master's student in Computational Communication at the School of Journalism and Communication, Nanjing University.
@@ -50,15 +50,16 @@ Research Track: Computational Communication
 ### Nanjing Normal University
 
 Bachelor of Communication and New Media
+Research Track: Intelligent Communication
 
-
+2022 - 2026
 
 ---
 
 ## Skills
 
 - Python
-- Gephi
+- R
 - Data Visualization
 - Content Analysis
 - Social Network Analysis
