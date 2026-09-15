@@ -1,13 +1,9 @@
 ---
 layout: archive
-title: "Interests"
+title: "Beyond Research"
 permalink: /interests/
 author_profile: true
 ---
-
-
-## Beyond Research
-
 
 Beyond academic exploration, I enjoy developing diverse interests that combine analytical thinking, creativity, physical activity, and communication.
 
