@@ -80,15 +80,15 @@ The project combined historical information, visual design, and storytelling str
 
 <div class="photo-grid">
 
-<div class="photo-card">
+<div class="photo-card portrait-photo" >
 <img src="/images/photo7.jpg">
 </div>
 
-<div class="photo-card">
+<div class="photo-card portrait-photo">
 <img src="/images/photo8.jpg">
 </div>
 
-<div class="photo-card">
+<div class="photo-card portrait-photo">
 <img src="/images/photo9.jpg">
 </div>
 
