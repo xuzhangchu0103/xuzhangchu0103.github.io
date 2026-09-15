@@ -9,23 +9,23 @@
 
 main:
   - title: "ABOUT"
-    url: /about/
+    url: "/about/"
 
   - title: "RESEARCH"
-    url: /research/    
+    url: "/research/"  
 
   - title: "WRITING"
-    url: /writing/    
+    url: "/writing/"  
     
   - title: "WORKS"
-    url: /works/
+    url: "/works/"
         
   - title: "INTERESTS"
-    url: /year-archive/
+    url: "/year-archive/"
     
   - title: "CV"
-    url: /cv/
+    url: "/cv/"
     
     
   - title: "CONTACT"
-    url: /contact/
+    url: "/contact/"
