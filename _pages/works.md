@@ -17,10 +17,10 @@ My work combines communication research, media production, and visual approaches
 ## Media Practice
 
 
-<div class="interest-grid">
+<div class="work-grid">
 
 
-<div class="interest-card">
+<div class="work-card">
 
 <h3>International Communication</h3>
 
@@ -33,7 +33,7 @@ Projects focusing on digital storytelling, content production, and cross-cultura
 </div>
 
 
-<div class="interest-card">
+<div class="work-card">
 
 <h3>Broadcast Journalism</h3>
 
@@ -46,7 +46,7 @@ Engaged in news production, interview preparation, and multimedia content creati
 </div>
 
 
-<div class="interest-card">
+<div class="work-card">
 
 <h3>New Media Operation</h3>
 
