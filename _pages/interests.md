@@ -5,30 +5,36 @@ permalink: /interests/
 author_profile: true
 ---
 
-# Beyond Research
+# Interests
 
 
-Beyond academic exploration, I enjoy developing diverse interests that combine calculation, creativity, physical activity, and communication.
+## Beyond Research
 
 
-<div class="interest-showcase">
+Beyond academic exploration, I enjoy developing diverse interests that combine analytical thinking, creativity, physical activity, and communication.
 
+
+---
 
 ## 🧮 Mental Arithmetic
 
 
-### Abacus Calculation | Competitive Mathematics
+### Abacus Calculation & Competitive Mathematics
 
 
 <div class="interest-images">
 
 <img src="/images/abacus1.jpg">
+
 <img src="/images/abacus2.jpg">
 
 </div>
 
 
-I have practiced abacus calculation for many years and achieved outstanding results in national and international competitions.
+I have practiced abacus calculation for many years and participated in numerous national and international competitions.
+
+
+My experience in mental arithmetic has cultivated my ability in concentration, logical thinking, and rapid calculation.
 
 
 **Achievements**
@@ -51,16 +57,16 @@ I have practiced abacus calculation for many years and achieved outstanding resu
 <div class="interest-images">
 
 <img src="/images/badminton1.jpg">
+
 <img src="/images/badminton2.jpg">
 
 </div>
 
 
-Badminton has been an important part of my undergraduate life. 
+Badminton has been an important part of my undergraduate campus life.
 
 
-During my undergraduate study, I represented my school and department badminton team in multiple university-level badminton competitions, developing teamwork, discipline, and perseverance through competitive sports.
-
+During my undergraduate study, I represented my school and department badminton team in multiple university-level badminton competitions, strengthening my teamwork, discipline, and perseverance through competitive sports.
 
 
 ---
@@ -74,6 +80,7 @@ During my undergraduate study, I represented my school and department badminton 
 <div class="interest-images">
 
 <img src="/images/reading1.jpg">
+
 <img src="/images/reading2.jpg">
 
 </div>
@@ -83,7 +90,6 @@ Reading is one of my long-term habits for expanding knowledge and understanding 
 
 
 As an experienced user of **WeChat Read**, I enjoy exploring books across different fields, including communication, humanities, social sciences, and contemporary issues.
-
 
 
 ---
@@ -97,19 +103,16 @@ As an experienced user of **WeChat Read**, I enjoy exploring books across differ
 <div class="interest-images">
 
 <img src="/images/debate1.jpg">
+
 <img src="/images/debate2.jpg">
 
 </div>
 
 
-Debate has shaped my ability to think critically, communicate clearly, and engage with diverse perspectives.
+Debate has shaped my ability to think critically, communicate effectively, and engage with diverse perspectives.
 
 
 During my undergraduate study, I served as Vice President of the University Debate Association and was a member of the School Debate Team.
 
 
 I have received multiple **Best Debater** awards in debate competitions.
-
-
-
-</div>
