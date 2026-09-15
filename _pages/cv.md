@@ -94,8 +94,8 @@ New Media Operation
 
 ## Tools
 
-- Python
-- Gephi
+- Python, Jupyter, R
+- Gephi, Mplus 
 - Adobe Photoshop
 - Adobe Premiere Pro
 
