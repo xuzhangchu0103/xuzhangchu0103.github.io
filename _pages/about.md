@@ -10,7 +10,7 @@ author_profile: true
 
 I am Zhangchu Xu, a first-year master's student in Computational Communication at the School of Journalism and Communication, Nanjing University.
 
-My work explores the intersection of communication studies, computational methods, and digital storytelling.
+My research explores how computational methods and emerging intelligent technologies reshape communication, cognition, and digital storytelling.
 
 
 ---
@@ -33,10 +33,10 @@ Exploring quantitative approaches in communication research, including measureme
 
 <div class="interest-card">
 
-<h3>LLM-based Cognitive and Behavioral Modeling</h3>
+<h3>LLM & Cognitive Modeling</h3>
 
 <p>
-Investigating how large language models can help understand cognition, behavior, and communication processes.
+Exploring how large language models can be used to understand human cognition, behavior, and communication processes.
 </p>
 
 </div>
@@ -59,39 +59,52 @@ Studying communication phenomena through computational methods and emerging inte
 
 ## Education
 
+<div class="timeline">
 
-### Nanjing University
+<div class="timeline-item">
 
-Master Student in Communication Studies  
-Research Track: Computational Communication
+<h3>2026 — Present</h3>
 
-2026 - Present
+<h4>Nanjing University</h4>
+
+<p>
+M.A. in Computational Communication<br>
+School of Journalism and Communication
+</p>
+
+</div>
 
 
-### Nanjing Normal University
+<div class="timeline-item">
 
-Bachelor of Communication and New Media
+<h3>2022 — 2026</h3>
+
+<h4>Nanjing Normal University</h4>
+
+<p>
+B.A. in Communication and New Media<br>
 Research Track: Intelligent Communication
+</p>
 
-2022 - 2026
+</div>
 
----
-
-## Skills
-
-- Python
-- R
-- Data Visualization
-- Content Analysis
-- Social Network Analysis
-- Adobe Photoshop
-- Adobe Premiere Pro
-
+</div>
 
 ---
 
-## Selected Highlights
+## Selected Experience
 
-- National Scholarship Recipient
-- Ranked No.1 in major and grade during undergraduate study
-- Experience in journalism practice, digital content creation, and communication research
+
+### Research
+
+Exploring computational approaches in communication research, including causal inference, social analysis, and intelligent communication.
+
+
+### Media Practice
+
+Experience in journalism practice, international communication, and digital content production.
+
+
+### Writing
+
+Creator of personal writing projects on public communication and social issues.
