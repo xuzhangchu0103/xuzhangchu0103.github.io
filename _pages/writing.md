@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Writing"
+title: "Writing & Commentary"
 permalink: /writing/
 author_profile: true
 ---
-
-# Writing & Commentary
 
 
 Selected essays and commentaries exploring media, society, culture, and public communication.
