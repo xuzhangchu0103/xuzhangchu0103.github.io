@@ -7,10 +7,7 @@ author_profile: true
 
 # Honors & Awards
 
-
-Selected academic honors, leadership recognitions, and competition achievements.
-
-
+During my undergraduate studies, I received over a hundred honors and awards, including more than 10 at the national level and over 20 at the provincial and municipal levels.
 
 ---
 
