@@ -150,3 +150,90 @@ border-radius:50%;
 .archive p {
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 }
+
+/* Works cards */
+
+
+.work-grid {
+
+display:grid;
+
+grid-template-columns:repeat(3,1fr);
+
+gap:24px;
+
+margin:30px 0;
+
+}
+
+
+
+.work-card {
+
+background:#FCFAFD;
+
+border:1px solid #E8A8C8;
+
+border-radius:18px;
+
+padding:28px;
+
+transition:0.25s;
+
+}
+
+
+
+.work-card h3 {
+
+font-family:Georgia, serif;
+
+color:#8A72C4;
+
+margin-top:0;
+
+}
+
+
+
+.work-card h4 {
+
+font-size:0.95rem;
+
+font-weight:600;
+
+}
+
+
+
+.work-card p {
+
+font-size:0.95rem;
+
+line-height:1.7;
+
+color:#4a4655;
+
+}
+
+
+
+.work-card:hover {
+
+transform:translateY(-5px);
+
+box-shadow:0 12px 30px rgba(139,123,184,0.15);
+
+}
+
+
+
+@media(max-width:900px){
+
+.work-grid{
+
+grid-template-columns:1fr;
+
+}
+
+}
