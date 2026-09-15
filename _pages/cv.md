@@ -1,64 +1,111 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+# Curriculum Vitae
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Zhangchu Xu
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Master Student in Computational Communication  
+School of Journalism and Communication  
+Nanjing University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Education
+
+
+## Nanjing University
+
+Master of Communication Studies  
+Research Track: Computational Communication
+
+2026 – Present
+
+
+## Nanjing Normal University
+
+Bachelor of Communication and New Media
+
+Undergraduate GPA: 4.18 / 5.0
+
+
+
+---
+
+# Research Interests
+
+- Computational Communication
+- Digital Media Studies
+- Social Media Analysis
+- Data-driven Communication Research
+- Large Language Models and Communication
+
+
+
+---
+
+# Research Experience
+
+## National Undergraduate Innovation and Entrepreneurship Training Program
+
+Research Participant
+
+
+## National Social Science Fund Projects
+
+Research Assistant / Project Participant
+
+
+
+---
+
+# Media Experience
+
+
+## China Youth Media International Communication Center
+
+International Communication Practice
+
+
+## Nantong Radio and Television Station
+
+Journalism and Media Production
+
+
+## Jiangsu Cable Nantong Branch
+
+New Media Operation
+
+
+
+---
+
+# Skills
+
+## Research
+
+- Quantitative Research Methods
+- Content Analysis
+- Social Network Analysis
+- Data Visualization
+
+
+## Tools
+
+- Python
+- Gephi
+- Adobe Photoshop
+- Adobe Premiere Pro
+
+
+
+---
+
+# Publications & Writing
+
+- Independent research article published in *Advertising Panorama*
+- Commentary articles and digital storytelling projects
