@@ -34,7 +34,7 @@ Computational Communication
 
 <div>
 
-<h3>Communication Questions</h3>
+<h3>Research Questions</h3>
 
 Understanding how people interact with information, technologies, and social environments.
 
@@ -43,7 +43,7 @@ Understanding how people interact with information, technologies, and social env
 
 <div>
 
-<h3>Computational Methods</h3>
+<h3>Analytical Approaches</h3>
 
 Applying quantitative analysis, computational modeling, and data-driven approaches.
 
@@ -52,7 +52,7 @@ Applying quantitative analysis, computational modeling, and data-driven approach
 
 <div>
 
-<h3>Intelligent Technologies</h3>
+<h3>Technological Perspectives</h3>
 
 Exploring how emerging technologies reshape communication and human behavior.
 
@@ -106,44 +106,62 @@ My research interests include social media analysis, digital communication, and 
 # Selected Research Experience
 
 
-## National Undergraduate Innovation and Entrepreneurship Training Program
+## 01
+
+### National Undergraduate Innovation and Entrepreneurship Training Program
 
 
-**Core Participant**
+**Role:** Core Participant
 
 
 Participated in a national-level undergraduate innovation and entrepreneurship project.
 
 
-Developed experience in research planning, literature review, project management, and interdisciplinary collaboration.
+**Research Experience**
 
+- Conducted literature review and research planning
+- Participated in project design and interdisciplinary collaboration
+- Developed experience in empirical research processes
 
 
 ---
 
-## National Social Science Fund Project
+
+## 02
+
+### National Social Science Fund Project
 
 
-**Research Assistant**
+**Role:** Research Assistant
 
 
 Participated in a National Social Science Fund project led by Professor Zhuang Xi.
 
 
-Engaged in academic research activities related to communication studies and developed experience in scholarly research processes.
+**Research Experience**
 
+- Assisted with academic research activities related to communication studies
+- Participated in literature organization and research discussions
+- Developed experience in scholarly research practices
 
 
 ---
 
-## National Social Science Fund Project
+
+## 03
+
+### National Social Science Fund Project
 
 
-**Student Research Leader**
+**Role:** Student Research Leader
 
 
 Participated in a National Social Science Fund project led by Professor Bu Xinzhang.
 
 
-Developed experience in research organization, project coordination, and academic communication.
+**Research Experience**
+
+- Coordinated student research activities
+- Participated in research organization and project communication
+- Developed abilities in academic collaboration and research management
 
