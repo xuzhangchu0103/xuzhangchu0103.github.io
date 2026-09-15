@@ -28,7 +28,7 @@ https://github.com/xuzhangchu0103
 
 ORCID:
 
-Coming soon
+https://orcid.org/0009-0003-2230-6262
 
 
 
