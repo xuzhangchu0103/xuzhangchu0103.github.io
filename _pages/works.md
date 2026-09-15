@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Works"
 permalink: /works/
 author_profile: true
@@ -6,68 +7,88 @@ author_profile: true
 
 # Works & Digital Storytelling
 
-Beyond academic research, I explore communication through writing, visual storytelling, and digital media production.
 
-This page presents selected works from journalism practice, creative projects, and visual communication.
-
-
-
----
-
-# Journalism & Media Works
-
-
-## Long-form Visual Storytelling
-
-
-### "130 Years of Exploration: China's Journey from Space to Deep Sea"
-
-A visual storytelling project focusing on China's technological development and national narratives.
-
-The project combined historical information, visual design, and digital communication strategies to present complex topics in an accessible format.
-
-**Category:** Data-driven Storytelling / Visual Communication
+Selected works exploring communication, media practice, visual storytelling, and creative expression.
 
 
 
 ---
 
-# Commentary & Content Creation
+## Media Practice
 
 
-## Digital Media Projects
+<div class="work-grid">
 
-Participated in various journalism and new media projects involving:
 
-- Content planning
-- Information organization
-- Visual presentation
-- Platform communication
+<div class="work-card">
+
+<h3>International Communication Practice</h3>
+
+<h4>China Youth Media International Communication Center</h4>
+
+<p>
+Participated in international communication projects, focusing on digital storytelling, content production, and cross-cultural communication.
+</p>
+
+</div>
+
+
+
+<div class="work-card">
+
+<h3>Broadcast Journalism Practice</h3>
+
+<h4>Nantong Radio and Television Station</h4>
+
+<p>
+Engaged in news production, interview preparation, and multimedia content creation in a professional media environment.
+</p>
+
+</div>
+
+
+
+<div class="work-card">
+
+<h3>New Media Operation</h3>
+
+<h4>Jiangsu Cable Nantong Branch</h4>
+
+<p>
+Participated in new media content planning, platform operation, and digital communication practices.
+</p>
+
+</div>
+
+
+</div>
 
 
 
 ---
 
-# Visual Design
+# Writing & Commentary
 
 
-## Design Projects
+## Hongjian Xiangbi
 
-Exploring the intersection of communication, aesthetics, and information visualization.
+**红笺向壁**
 
-Selected works include:
+A personal writing platform focusing on social commentary, media observation, and everyday reflections.
 
-- Visual communication design
-- Poster design
-- Creative media projects
+
+
+### Selected Writing
+
+- Social commentary on public issues and social change
+- Essays on media, culture, and communication
 
 
 
 ---
 
-# Photography
+# Visual Storytelling
 
 
-Photography allows me to observe everyday life and explore visual narratives.
+Photography and visual design as approaches to observe society and communicate ideas.
 
-Selected photography works will be displayed here.
