@@ -4,8 +4,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-# Contact
-
 
 I welcome academic discussions, research collaborations, and communication related to computational communication and digital media.
 
