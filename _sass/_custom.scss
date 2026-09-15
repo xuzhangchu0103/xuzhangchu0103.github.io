@@ -194,6 +194,158 @@ border-radius:50%;
     color: #4a4655;
 }
 
+/* ===============================
+   Honors Timeline
+   =============================== */
+
+
+.honors-timeline {
+
+    position: relative;
+
+    margin: 40px 0;
+
+    padding-left: 35px;
+
+}
+
+
+/* vertical line */
+
+.honors-timeline::before {
+
+    content: "";
+
+    position: absolute;
+
+    left: 10px;
+
+    top: 0;
+
+    bottom: 0;
+
+    width: 3px;
+
+    background: #E8A8C8;
+
+}
+
+
+
+/* timeline item */
+
+.honor-item {
+
+    position: relative;
+
+    margin-bottom: 45px;
+
+}
+
+
+
+/* timeline dot */
+
+.honor-item::before {
+
+    content: "";
+
+    position: absolute;
+
+    left: -31px;
+
+    top: 8px;
+
+    width: 14px;
+
+    height: 14px;
+
+    background: #8B7BB8;
+
+    border-radius: 50%;
+
+}
+
+
+
+/* year */
+
+.honor-item h3 {
+
+    font-family: Georgia, serif;
+
+    font-size: 1.35em;
+
+    font-weight: 700;
+
+    color: #8B7BB8;
+
+    margin-bottom: 18px;
+
+}
+
+
+
+/* English award title */
+
+.award-title {
+
+    font-family: Georgia, serif;
+
+    font-size: 1.45em;
+
+    font-weight: 700;
+
+    color: #373343;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+/* Chinese award name */
+
+.award-name {
+
+    font-size: 1.05em;
+
+    font-weight: 500;
+
+    margin-bottom: 5px;
+
+    color: #373343;
+
+}
+
+
+
+/* English explanation */
+
+.award-en {
+
+    font-size: 0.95em;
+
+    color: #66616f;
+
+    line-height: 1.6;
+
+    margin-bottom: 15px;
+
+}
+
+
+
+/* hover effect */
+
+.honor-item:hover::before {
+
+    transform: scale(1.25);
+
+    transition: 0.25s;
+
+}
+
 /* School name */
 .archive h3 {
     font-family: Georgia, serif;
