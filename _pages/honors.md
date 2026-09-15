@@ -14,7 +14,7 @@ Selected academic honors, leadership recognitions, and competition achievements.
 
 ---
 
-# Personal Honors
+## Personal Honors
 
 
 <div class="honors-timeline">
@@ -114,7 +114,7 @@ Outstanding Individual Recognition in Summer Social Practice
 
 ---
 
-# Competition & Creative Awards
+## Competition & Creative Awards
 
 
 <div class="honors-timeline">
