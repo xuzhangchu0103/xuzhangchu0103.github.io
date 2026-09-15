@@ -636,3 +636,88 @@ grid-template-columns:1fr;
 }
 
 }
+
+/* ===============================
+Research Framework
+=============================== */
+
+
+.research-framework {
+
+margin:50px 0;
+
+}
+
+
+
+.framework-center {
+
+margin:auto;
+
+width:260px;
+
+padding:25px;
+
+text-align:center;
+
+border-radius:50%;
+
+background:#FCFAFD;
+
+border:2px solid #E8A8C8;
+
+font-family:Georgia, serif;
+
+font-size:1.4em;
+
+font-weight:700;
+
+color:#8B7BB8;
+
+}
+
+
+
+.framework-grid {
+
+display:grid;
+
+grid-template-columns:repeat(3,1fr);
+
+gap:25px;
+
+margin-top:45px;
+
+}
+
+
+
+.framework-grid div {
+
+padding:25px;
+
+border-bottom:2px solid #E8A8C8;
+
+}
+
+
+
+.framework-grid h3 {
+
+font-family:Georgia, serif;
+
+color:#8B7BB8;
+
+}
+
+
+
+@media(max-width:768px){
+
+.framework-grid{
+
+grid-template-columns:1fr;
+
+}
+
+}
