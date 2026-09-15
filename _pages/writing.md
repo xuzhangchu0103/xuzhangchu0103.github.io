@@ -5,11 +5,7 @@ permalink: /writing/
 author_profile: true
 ---
 
-
-Selected essays and commentaries exploring media, society, culture, and public communication.
-
 Through writing, I examine social issues, media phenomena, and cultural changes from the perspective of communication studies.
-
 
 ---
 
