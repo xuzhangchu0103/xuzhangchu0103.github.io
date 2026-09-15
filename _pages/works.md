@@ -78,7 +78,21 @@ The project combined historical information, visual design, and storytelling str
 
 **Category:** Data-driven Storytelling / Visual Communication
 
+<div class="photo-grid">
 
+<div class="photo-card">
+<img src="/images/photo7.jpg">
+</div>
+
+<div class="photo-card">
+<img src="/images/photo8.jpg">
+</div>
+
+<div class="photo-card">
+<img src="/images/photo9.jpg">
+</div>
+
+</div>
 
 ---
 
