@@ -106,22 +106,31 @@ My research interests include social media analysis, digital communication, and 
 ## Research Experience
 
 
+---
+
 ## 01
 
-### National Undergraduate Innovation and Entrepreneurship Training Program
+### “Cultural Memory · Identity Recognition · Community Building”
+### — A Study Based on Theme Exhibition Halls of Strengthening the Sense of Chinese National Community
+
+**2024.04 — 2025.05**
+
+**Project Type:**  
+National Undergraduate Innovation and Entrepreneurship Training Program
+
+**Role:**  
+Core Participant
 
 
-**Role:** Core Participant
+This project investigated how theme exhibition halls construct collective memory and identity narratives through cultural representation and public communication.
 
 
-Participated in a national-level undergraduate innovation and entrepreneurship project.
+**Research Contributions**
 
+- Conducted literature review and research planning related to cultural memory and identity construction.
+- Participated in questionnaire design, field investigation, and empirical research.
+- Developed experience in interdisciplinary research design and communication analysis.
 
-**Research Experience**
-
-- Conducted literature review and research planning
-- Participated in project design and interdisciplinary collaboration
-- Developed experience in empirical research processes
 
 
 ---
@@ -129,20 +138,29 @@ Participated in a national-level undergraduate innovation and entrepreneurship p
 
 ## 02
 
-### National Social Science Fund Project
+### Oral History Collection and Organization of the War to Resist U.S. Aggression and Aid Korea
+
+**2024.09 — 2025.09**
+
+**Project Type:**  
+National Social Science Fund Project
+
+**Supervisor:**  
+Professor Zhuang Xi
+
+**Role:**  
+Research Assistant
 
 
-**Role:** Research Assistant
+Participated in a National Social Science Fund project focusing on the collection, preservation, and analysis of oral historical materials related to the War to Resist U.S. Aggression and Aid Korea.
 
 
-Participated in a National Social Science Fund project led by Professor Zhuang Xi.
+**Research Contributions**
 
+- Assisted with oral history material collection and organization.
+- Participated in literature review, archival analysis, and research discussions.
+- Developed practical experience in historical communication research and qualitative analysis.
 
-**Research Experience**
-
-- Assisted with academic research activities related to communication studies
-- Participated in literature organization and research discussions
-- Developed experience in scholarly research practices
 
 
 ---
@@ -150,18 +168,76 @@ Participated in a National Social Science Fund project led by Professor Zhuang X
 
 ## 03
 
-### National Social Science Fund Project
+### Research on the Historical Construction Process and Pathways of Strengthening the Sense of Chinese National Community in New China
+
+**2024.01 — 2025.10**
+
+**Project Type:**  
+National Social Science Fund Project
+
+**Supervisor:**  
+Professor Bu Xinzhang
+
+**Role:**  
+Student Research Leader
 
 
-**Role:** Student Research Leader
+This project explored the historical evolution and communication pathways of visual representations related to strengthening the sense of Chinese national community in contemporary China.
 
 
-Participated in a National Social Science Fund project led by Professor Bu Xinzhang.
+**Research Contributions**
+
+- Coordinated student research activities and project communication.
+- Participated in research framework development, literature organization, and academic discussions.
+- Developed experience in research management, interdisciplinary collaboration, and visual communication analysis.
+
+
+
+---
+
+
+## 04
+
+### Personalized Short Video Information Services for Elderly Groups from the Perspective of Care Ethics
+
+**2024.09**
+
+**Publication Type:**  
+Provincial Academic Journal Article
+
+
+**Role:**  
+Independent Author
+
+
+Published an independent research article in *Advertising Panorama* (*Guanggao Daguan*), exploring optimization strategies for personalized short-video information services for elderly users from the perspective of care ethics.
+
+
+**Research Contributions**
+
+- Examined the relationship between digital media technology and elderly communication needs.
+- Analyzed challenges of personalized information services in the context of aging society.
+- Proposed communication-oriented approaches for improving digital inclusion.
+
+
+
+---
+
+
+## 05
+
+### 6th Jogjakarta Communication Conference
+
+**2025.04.30**
+
+**Academic Conference:**  
+6th Jogjakarta Communication Conference
+
+
+Participated in an international academic conference focusing on communication studies and emerging issues in the field.
 
 
 **Research Experience**
 
-- Coordinated student research activities
-- Participated in research organization and project communication
-- Developed abilities in academic collaboration and research management
-
+- Engaged in academic exchange with international scholars and researchers.
+- Expanded perspectives on global communication research and interdisciplinary approaches.
