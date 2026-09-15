@@ -5,8 +5,6 @@ permalink: /interests/
 author_profile: true
 ---
 
-# Interests
-
 
 ## Beyond Research
 
