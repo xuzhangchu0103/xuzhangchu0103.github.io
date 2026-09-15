@@ -16,7 +16,7 @@ I am interested in understanding how information is produced, transmitted, and i
 
 ---
 
-# Research Framework
+## Research Framework
 
 
 <div class="research-framework">
@@ -67,10 +67,10 @@ Exploring how emerging technologies reshape communication and human behavior.
 
 ---
 
-# Research Areas
+## Research Areas
 
 
-## Measurement & Causal Inference
+### Measurement & Causal Inference
 
 
 I explore quantitative approaches in communication research, focusing on measurement, research design, and causal identification.
@@ -81,7 +81,7 @@ My interests include developing empirical strategies to examine communication ef
 
 ---
 
-## LLM-based Cognitive and Behavioral Modeling
+### LLM-based Cognitive and Behavioral Modeling
 
 
 I study how large language models (LLMs) can contribute to understanding human cognition, behavior, and communication processes.
@@ -92,7 +92,7 @@ My interests include the interaction between artificial intelligence, human cogn
 
 ---
 
-## Computational & Intelligent Communication
+### Computational & Intelligent Communication
 
 
 I investigate communication phenomena through computational approaches and emerging intelligent technologies.
@@ -103,7 +103,7 @@ My research interests include social media analysis, digital communication, and 
 
 ---
 
-# Selected Research Experience
+## Research Experience
 
 
 ## 01
