@@ -119,5 +119,19 @@ Photography as a visual approach to observe society, document moments, and commu
 </div>
 
 
+<div class="photo-card">
+
+<img src="/images/photo5.jpg">
+
+</div>
+
+
+<div class="photo-card">
+
+<img src="/images/photo6.jpg">
+
+</div>
+
+
 </div>
 
