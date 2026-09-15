@@ -83,7 +83,7 @@ School of Journalism and Communication
 
 <p>
 B.A. in Communication and New Media<br>
-Research Track: Intelligent Communication
+Focus: Intelligent Communication
 </p>
 
 </div>
