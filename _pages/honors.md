@@ -19,7 +19,7 @@ During my undergraduate studies, I received over a hundred honors and awards, in
 
 <div class="honor-item">
 
-<h3>2025</h3>
+<h3>2025.10</h3>
 
 <h4 class="award-title">
 National Scholarship
@@ -39,7 +39,7 @@ Undergraduate National Scholarship Recipient
 
 <div class="honor-item">
 
-<h3>2022 — 2025</h3>
+<h3>2022 — 2026</h3>
 
 <h4 class="award-title">
 First-Class University Scholarship
@@ -59,7 +59,7 @@ Recipient of First-Class University Scholarship for four consecutive years
 
 <div class="honor-item">
 
-<h3>2022 — 2025</h3>
+<h3>2022 — 2026</h3>
 
 <h4 class="award-title">
 Student Leadership and Academic Recognition
@@ -79,7 +79,7 @@ Outstanding Student, Outstanding Student Leader (2 times), and Candidate for Mod
 
 <div class="honor-item">
 
-<h3>2022 — 2025</h3>
+<h3>2022 — 2026</h3>
 
 <h4 class="award-title">
 Youth League and Social Practice Recognition
