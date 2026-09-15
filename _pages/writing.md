@@ -41,13 +41,6 @@ My writing covers topics including public affairs, social issues, media communic
 
 <div class="photo-card">
 
-<img src="/images/photo11.jpg">
-
-</div>
-
-
-<div class="photo-card">
-
 <img src="/images/photo12.jpg">
 
 </div>
