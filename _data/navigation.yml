@@ -17,6 +17,9 @@ main:
     
   - title: "WORKS"
     url: "/works/"
+
+  - title: "HONORS"
+    url: "/honors/"  
         
   - title: "INTERESTS"
     url: "/year-archive/"
