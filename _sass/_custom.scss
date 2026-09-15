@@ -237,3 +237,37 @@ grid-template-columns:1fr;
 }
 
 }
+
+.photo-grid {
+
+display:grid;
+
+grid-template-columns:repeat(3,1fr);
+
+gap:20px;
+
+margin-top:30px;
+
+}
+
+
+.photo-card img {
+
+width:100%;
+
+height:260px;
+
+object-fit:cover;
+
+border-radius:16px;
+
+}
+
+
+.photo-card img:hover {
+
+transform:scale(1.03);
+
+transition:0.3s;
+
+}
