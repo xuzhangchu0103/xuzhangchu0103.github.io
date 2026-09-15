@@ -44,7 +44,7 @@ Exploring how large language models can be used to understand human cognition, b
 
 <div class="interest-card">
 
-<h3>Computational & Intelligent Communication</h3>
+<h3>Computational Communication</h3>
 
 <p>
 Studying communication phenomena through computational methods and emerging intelligent technologies.
