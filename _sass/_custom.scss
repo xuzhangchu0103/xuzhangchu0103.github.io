@@ -194,6 +194,7 @@ border-radius:50%;
     color: #4a4655;
 }
 
+
 /* ===============================
    Honors Timeline
    =============================== */
@@ -284,6 +285,40 @@ border-radius:50%;
 
 }
 
+
+/* More honors indicator */
+
+.honor-more h3 {
+
+    font-family: Georgia, serif;
+
+    font-size: 1.35em;
+
+    font-weight:700;
+
+    color:#8B7BB8;
+
+    margin-top:10px;
+
+}
+
+
+
+/* make the final dot softer */
+
+.honor-more::before {
+
+    width:12px;
+
+    height:12px;
+
+    background:#8B7BB8;
+
+    opacity:0.8;
+    
+    margin-top:50px;
+
+}
 
 
 /* English award title */
