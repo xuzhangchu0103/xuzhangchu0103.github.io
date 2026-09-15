@@ -29,6 +29,29 @@ A personal writing platform focusing on social commentary, media observation, an
 My writing covers topics including public affairs, social issues, media communication, and cultural phenomena.
 
 
+<div class="photo-grid">
+
+
+<div class="photo-card">
+
+<img src="/images/photo10.jpg">
+
+</div>
+
+
+<div class="photo-card">
+
+<img src="/images/photo11.jpg">
+
+</div>
+
+
+<div class="photo-card">
+
+<img src="/images/photo12.jpg">
+
+</div>
+
 
 ---
 
