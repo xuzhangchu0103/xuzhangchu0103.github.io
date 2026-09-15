@@ -721,3 +721,57 @@ grid-template-columns:1fr;
 }
 
 }
+
+.research-project {
+
+    position:relative;
+
+    padding-left:50px;
+
+    margin:50px 0;
+
+}
+
+
+.research-project::before {
+
+    content:"";
+
+    position:absolute;
+
+    left:15px;
+
+    top:0;
+
+    bottom:0;
+
+    width:2px;
+
+    background:#E8A8C8;
+
+}
+
+
+.research-project h2 {
+
+    font-family:Georgia,serif;
+
+    color:#8B7BB8;
+
+}
+
+
+.research-project h3 {
+
+    font-family:Georgia,serif;
+
+}
+
+
+.project-role {
+
+    color:#8B7BB8;
+
+    font-weight:600;
+
+}
