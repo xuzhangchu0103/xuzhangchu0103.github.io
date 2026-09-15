@@ -7,9 +7,9 @@ author_profile: true
 
 # Works & Digital Storytelling
 
-
 Selected works exploring communication, media practice, visual storytelling, and creative expression.
 
+My work combines communication research, media production, and visual approaches to explore how stories are created, represented, and shared in digital environments.
 
 
 ---
@@ -17,26 +17,25 @@ Selected works exploring communication, media practice, visual storytelling, and
 ## Media Practice
 
 
-<div class="work-grid">
+<div class="interest-grid">
 
 
-<div class="work-card">
+<div class="interest-card">
 
-<h3>International Communication Practice</h3>
+<h3>International Communication</h3>
 
 <h4>China Youth Media International Communication Center</h4>
 
 <p>
-Participated in international communication projects, focusing on digital storytelling, content production, and cross-cultural communication.
+Participated in international communication projects focusing on digital storytelling, content production, and cross-cultural communication.
 </p>
 
 </div>
 
 
+<div class="interest-card">
 
-<div class="work-card">
-
-<h3>Broadcast Journalism Practice</h3>
+<h3>Broadcast Journalism</h3>
 
 <h4>Nantong Radio and Television Station</h4>
 
@@ -47,8 +46,7 @@ Engaged in news production, interview preparation, and multimedia content creati
 </div>
 
 
-
-<div class="work-card">
+<div class="interest-card">
 
 <h3>New Media Operation</h3>
 
@@ -67,28 +65,66 @@ Participated in new media content planning, platform operation, and digital comm
 
 ---
 
-# Writing & Commentary
+# Visual Storytelling
 
 
-## Hongjian Xiangbi
-
-**红笺向壁**
-
-A personal writing platform focusing on social commentary, media observation, and everyday reflections.
+## "130 Years of Exploration: China's Journey from Space to Deep Sea"
 
 
+A visual storytelling project exploring China's technological development through historical narratives and digital communication.
 
-### Selected Writing
+The project combined historical information, visual design, and storytelling strategies to present complex topics in an accessible and engaging format.
 
-- Social commentary on public issues and social change
-- Essays on media, culture, and communication
+
+**Category:** Data-driven Storytelling / Visual Communication
 
 
 
 ---
 
-# Visual Storytelling
+# Photography Portfolio
 
 
-Photography and visual design as approaches to observe society and communicate ideas.
+Photography as a visual approach to observe society, document moments, and communicate ideas.
+
+
+<div class="photo-grid">
+
+
+<div class="photo-card">
+
+<img src="/images/photo1.jpg">
+
+</div>
+
+
+<div class="photo-card">
+
+<img src="/images/photo2.jpg">
+
+</div>
+
+
+<div class="photo-card">
+
+<img src="/images/photo3.jpg">
+
+</div>
+
+
+<div class="photo-card">
+
+<img src="/images/photo4.jpg">
+
+</div>
+
+
+<div class="photo-card">
+
+<img src="/images/photo5.jpg">
+
+</div>
+
+
+</div>
 
